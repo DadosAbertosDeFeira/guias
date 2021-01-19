@@ -1,4 +1,4 @@
-# guias
+# Guias do Dados Abertos de Feira
 
 Aqui você encontra os guias gerais de contribuição nesse projeto.
 Certifique-se de ler nosso [manifesto](https://dadosabertosdefeira.medium.com/manifesto-a9cb9207820d)
