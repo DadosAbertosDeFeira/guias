@@ -7,4 +7,4 @@ o nosso [código de conduta](https://github.com/DadosAbertosDeFeira/guias/blob/m
 e o [guia de contribuição](https://github.com/DadosAbertosDeFeira/guias/blob/main/GUIA_DE_CONTRIBUICAO.md).
 
 Caso tenha qualquer dúvida, abra uma _issue_ nesse repositório ou entre em contato conosco no nosso
-[Discord](https://discord.gg/Te5wnyzveZ) ou por [e-mail](mailto:dadosabertosdefeira+gh@gmail.com).
+[Discord](https://discord.gg/bPZ9TSjdUn) ou por [e-mail](mailto:dadosabertosdefeira+gh@gmail.com).
